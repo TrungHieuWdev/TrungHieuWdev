@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I’m **Trung Hiếu**, an **Information Technology (IT) student** with a strong interest in how software works and how problems can be solved through code.
+I’m **Trung Hieu**, an **Information Technology (IT) student** with a strong interest in how software works and how problems can be solved through code.
 
 I enjoy learning new technologies, building small projects, and improving my logical thinking step by step.
 
